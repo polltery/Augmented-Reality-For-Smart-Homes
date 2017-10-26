@@ -24,7 +24,7 @@ explored in detail.
 
 ## Downloads
 
-Full text : https://goo.gl/YBnhtY
+* [Full text](https://goo.gl/YBnhtY)
 
 ## Authors
 
