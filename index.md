@@ -20,9 +20,16 @@ explored in detail.
 
 ## Downloads
 
+### Dissertation and poster
+
 * [Full text Online](https://goo.gl/YBnhtY)
 * Full text PDF (Available at request)
 * Poster (Available at request)
+
+### Project files are maintained on github
+
+* [Server side](https://github.com/polltery/rest-server-connected-to-arduino)
+* [Client side](https://github.com/polltery/augmented-reality-cordova-app)
 
 ## Contacts
 
