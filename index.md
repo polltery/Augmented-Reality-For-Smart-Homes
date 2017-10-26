@@ -1,7 +1,3 @@
-# Augmented Reality Interface for Smart Home
-
-Dissertation submitted for the degree of BSc. (Hons) Computer Systems at Department of Computer Science, School of Mathematical and Computer Sciences, Heriot Watt University.
-
 ## Abstract
 
 Smart homes are ubicomp applications that are gaining traction in today's economy because of rapid
