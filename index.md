@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Augmented Reality Interface for Smart Home
 
-You can use the [editor on GitHub](https://github.com/polltery/ArInterfaceForSmartHome/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dissertation submitted for the degree of BSc. (Hons) Computer Systems at Department of Computer Science, School of Mathematical and Computer Sciences, Heriot Watt University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Abstract
 
-### Markdown
+Smart homes are ubicomp applications that are gaining traction in today's economy because of rapid
+technological advancements. Today, there are home products being developed commercially that create
+our environment smarter, most of these are voice assistant speakers, smart thermostat, security devices
+and more. The interfaces of such systems available today consists mostly of speech interface or a
+graphical user interface (GUI) (on an embedded system or through a mobile application). Augmented
+reality (AR) on the other hand, is mostly used out of the smart home context primarily being used for
+entertainment purpose. This research looks into the potential of AR interfaces for smart home by
+evaluating a small smart home ubicomp application that makes use of a fully functional mobile
+application which provides AR interfaces for individual smart home components. It also compares other
+interaction methods such as speech, gesture, GUI and tangible user interface (TUI) in the same context.
+The results acquired tell us why other interaction methods such as GUI and TUI work so well in today's
+society and it’s because they are effective and efficient unlike other methods. The work done in this
+research looks into other interaction methods to see how these methods satisfy the ubicomp application in
+some critical areas. Speech and gesture interaction methods are found to be proactive interaction methods
+in this project (i.e. interaction must be initiated by user) which fails the purpose of calm computing.
+Mobile AR interface is found to be a balanced approached towards such ubicomp applications, and is
+explored in detail.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Downloads
 
-```markdown
-Syntax highlighted code block
+Full text : https://goo.gl/YBnhtY
 
-# Header 1
-## Header 2
-### Header 3
+## Authors
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/polltery/ArInterfaceForSmartHome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+By Balraj Singh Bains
