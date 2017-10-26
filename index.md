@@ -24,4 +24,4 @@ explored in detail.
 
 ## Authors
 
-By Balraj Singh Bains
+By Balraj Singh Bains | bsb32@hw.ac.uk
