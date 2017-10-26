@@ -20,8 +20,10 @@ explored in detail.
 
 ## Downloads
 
-* [Full text](https://goo.gl/YBnhtY)
+* [Full text Online](https://goo.gl/YBnhtY)
+* Full text PDF (Available at request)
+* Poster (Available at request)
 
-## Authors
+## Contacts
 
-By Balraj Singh Bains | bsb32@hw.ac.uk
+Mail me any questions and/or suggestions on **bsb32@hw.ac.uk**
